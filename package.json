@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MilestonesSI8/temp-calculator/issues"
   },
-  "homepage": "https://github.com/MilestonesSI8/temp-calculator#readme"
+  "homepage": "https://github.com/MilestonesSI8/temp-calculator#readme",
+  "devDependencies": {
+    "karma-jasmine": "^1.0.2"
+  }
 }
