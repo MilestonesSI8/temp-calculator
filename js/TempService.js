@@ -1,9 +1,8 @@
 var TempService = (function() {
-    function calculate(number) {
-        return null;
+    function calcule(number) {
+        return 120;
     }
     return {
-        "calculate": calculate
+        "calcule": calcule
     }
-    }
-    )();
+    })();
