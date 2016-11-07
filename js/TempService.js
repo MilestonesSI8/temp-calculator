@@ -1,10 +1,11 @@
-var TempService = function() {
+var TempService = (function () {
 
-    function calcule(number) {
-        return number * 1.8 + 32;
+    function calculate(number){
+        return number * 1.8 + 32;;
     }
+
     return {
-        "calcule": calcule
+        "calculate": calculate
     }
 
-}
+})();
